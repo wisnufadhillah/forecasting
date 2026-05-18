@@ -1,0 +1,82 @@
+product_name,current_stock,reorder_point,recommended_restock
+Orange,44,20,0
+Iron,71,20,0
+Salmon,69,20,0
+Hair Gel,84,20,0
+Milk,15,20,55
+Olive Oil,83,20,0
+Banana,88,20,0
+Carrots,31,20,0
+Deodorant,37,20,0
+Power Strips,76,20,0
+Yogurt,74,20,0
+Onions,42,20,0
+Soda,36,20,0
+Lawn Mower,92,20,0
+Potatoes,39,20,0
+Mayonnaise,38,20,0
+Shower Gel,97,20,0
+Feminine Hygiene Products,24,20,0
+Paper Towels,50,20,0
+Plant Fertilizer,23,20,0
+Tissues,57,20,0
+Eggs,20,20,0
+Water,26,20,0
+Toothpaste,78,20,0
+Rice,81,20,0
+Shaving Cream,64,20,0
+Honey,47,20,0
+Vinegar,17,20,53
+Pancake Mix,47,20,0
+Dish Soap,11,20,59
+Cereal Bars,59,20,0
+Canned Soup,62,20,0
+Insect Repellent,84,20,0
+Ironing Board,94,20,0
+Bread,11,20,59
+Light Bulbs,33,20,0
+Vacuum Cleaner,31,20,0
+Syrup,26,20,0
+Hand Sanitizer,30,20,0
+Trash Cans,36,20,0
+Apple,23,20,0
+Toilet Paper,35,20,0
+Mustard,74,20,0
+Cheese,60,20,0
+Trash Bags,46,20,0
+Beef,36,20,0
+Butter,18,20,52
+Air Freshener,10,20,60
+Shampoo,11,20,59
+Soap,79,20,0
+Laundry Detergent,86,20,0
+Pasta,21,20,0
+Dustpan,73,20,0
+Broom,44,20,0
+Dishware,69,20,0
+Extension Cords,87,20,0
+Tomatoes,35,20,0
+Cereal,65,20,0
+Baby Wipes,36,20,0
+Sponges,84,20,0
+Jam,95,20,0
+Spinach,18,20,52
+Bath Towels,71,20,0
+Mop,15,20,55
+Coffee,98,20,0
+Razors,29,20,0
+Ice Cream,40,20,0
+Peanut Butter,51,20,0
+Pickles,27,20,0
+Cleaning Spray,88,20,0
+Cleaning Rags,40,20,0
+Ketchup,95,20,0
+Garden Hose,84,20,0
+Toothbrush,12,20,58
+Chicken,17,20,53
+Diapers,14,20,56
+BBQ Sauce,21,20,0
+Chips,90,20,0
+Shrimp,88,20,0
+Tuna,48,20,0
+Tea,20,20,0
